@@ -1,4 +1,5 @@
-**scenario**|** preview2**|** preview3**
+**Deserialization**
+iteration|6.0.100-preview.2.21158.2|6.0.100-preview.3.21202.5
 :-----:|:-----:|:-----:
 Deserialize 0| 35.755 milliseconds| 43.25 milliseconds
 Deserialize 1| 1 milliseconds| 3.25 milliseconds
@@ -11,6 +12,10 @@ Deserialize 7| 0.79 milliseconds| 3.04 milliseconds
 Deserialize 8| 0.835 milliseconds| 3 milliseconds
 Deserialize 9| 0.915 milliseconds| 3 milliseconds
 Deserialize 10| 0.79 milliseconds| 3.085 milliseconds
+
+**Serialization**
+iteration|6.0.100-preview.2.21158.2|6.0.100-preview.3.21202.5
+:-----:|:-----:|:-----:
 Serialize 0| 11.455 milliseconds| 11.8299 milliseconds
 Serialize 1| 1.71 milliseconds| 2.085 milliseconds
 Serialize 2| 1.545 milliseconds| 1.875 milliseconds
