@@ -1,3 +1,4 @@
+```
 # preview2
 
 Deserialize 0: 35.755 milliseconds
@@ -47,3 +48,4 @@ Serialize 7: 1.9199 milliseconds
 Serialize 8: 2.125 milliseconds
 Serialize 9: 1.8749 milliseconds
 Serialize 10: 1.8299 milliseconds
+```
